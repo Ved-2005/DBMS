@@ -15,7 +15,7 @@ A database-driven application developed as part of a DBMS course project. The sy
 
 ## 🗃️ Database Design
 
-- Implemented using **MySQL** 
+- Implemented using **PostgreSQL** 
 - Tables include: `Users`, `Posts`, `Followers`, `Messages`, `Likes`
 - Ensures referential integrity and optimized queries through indexes and joins
 
