@@ -21,7 +21,7 @@ A database-driven application developed as part of a DBMS course project. The sy
 
 ## 🛠️ Tech Stack
 
-- **Database**: SQL 
+- **Database**: PostgreSQL 
 
 
 ## 📚 Learning Outcomes
