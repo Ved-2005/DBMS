@@ -2,7 +2,7 @@
 
 # 📱 Social Media Management System
 
-A database-driven application developed as part of a DBMS course project. The system simulates core features of a social media platform such as user registration, posting, following/unfollowing users, and direct messaging.
+A database-driven application developed as part of a DBMS course project. The system simulates core features of a social media platform such as user registration, posting, following users, and direct messaging.
 
 ## 💡 Features
 
@@ -10,7 +10,7 @@ A database-driven application developed as part of a DBMS course project. The sy
 - Create posts
 - Follow and unfollow users
 - View timelines based on followed users
-- Send and receive direct messages
+- Comment on posts
 - Admin panel for data monitoring 
 
 ## 🗃️ Database Design
