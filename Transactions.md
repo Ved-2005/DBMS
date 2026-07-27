@@ -1,4 +1,4 @@
-# 🔄 Transaction Isolation in PostgreSQL
+#  Transaction Isolation in PostgreSQL
 
 A practical demonstration of ACID transaction properties using the **social_media** database.
 
@@ -10,7 +10,7 @@ A practical demonstration of ACID transaction properties using the **social_medi
 
 ### Example
 
-![Atomicity Example — Transaction rollback on syntax error](atomicity.png)
+![Atomicity Example — Transaction rollback on syntax error](images/atomicity.png)
 
 
 ---
@@ -54,7 +54,6 @@ The following table summarizes which concurrency anomalies are possible at each 
 
 | Isolation Level | Dirty Read | Nonrepeatable Read | Phantom Read | Serialization Anomaly |
 |---|---|---|---|---|
-| Read uncommitted | Allowed, but not in PG | Possible | Possible | Possible |
 | Read committed | Not possible | Possible | Possible | Possible |
 | Repeatable read | Not possible | Not possible | Allowed, but not in PG | Possible |
 | Serializable | Not possible | Not possible | Not possible | Not possible |
